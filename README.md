@@ -7,8 +7,8 @@ App demo for programmatic nav+tab-bar, WebView, ScrollView, TableView from csv
 ##Features:
 + app built programatically
 + tab bar and nav bar controllers
-+ table view created from AWS s3 csv file
-+ detail view displaying webview with imdb.com page links 
++ table view of film composers built from AWS s3 csv file
++ detail view displaying UIWebView with imdb.com page links 
 + scroll view containing world map
 + tab with UIWebView 
 
